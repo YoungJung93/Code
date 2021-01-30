@@ -20,7 +20,7 @@
 5. 서버는 기기에서 정보를 받아 이동경로를 탐색한 후, 기기에 정보를 전송합니다.
 
 
-[아키텍쳐 설계2]
+![아키텍쳐 설계2](https://user-images.githubusercontent.com/31823098/106352440-7eab6180-6326-11eb-972a-889d740be5a8.png)
 
 송신 UWB센서의 구조입니다.
 UWB센서인 dwm1000을 adapter board와 결합하여 아두이노 Nano보드로 제어하도록 하였습니다.
@@ -43,8 +43,7 @@ UWB센서인 dwm1000을 adapter board와 결합하여 아두이노 Nano보드로
 
 유스케이스
 
-[유스케이스]
-
+![유스케이스](https://user-images.githubusercontent.com/31823098/106352446-89fe8d00-6326-11eb-8888-64fa6d98f619.png)
 
 
 본인이 기여한 점
