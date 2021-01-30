@@ -20,7 +20,7 @@
 
 
 
-![아키텍쳐 설계2](C:\Users\tnfl4\OneDrive\Desktop\GIT\ExitGuidance\res\아키텍쳐 설계2.png)
+![아키텍쳐 설계2](res\아키텍쳐 설계2.png)
 
 송신 UWB센서의 구조입니다.
 UWB센서인 dwm1000을 adapter board와 결합하여 아두이노 Nano보드로 제어하도록 하였습니다.
